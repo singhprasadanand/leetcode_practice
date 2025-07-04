@@ -22,7 +22,6 @@ Each problem includes:
 |-----------------------|-------------|
 | ✅ Problem Statement   | Clearly written and paraphrased in my own words. |
 | 🧩 Intuition / Approach | Real-world analogy or step-by-step plan of action. |
-| 🧪 Dry Run             | Sample input walkthrough before coding. |
 | 🧑‍💻 Code (Python)     | Clean, well-commented code with edge case handling. |
 | ⏱ Time & Space Analysis | Big-O complexity clearly mentioned. |
 | ✅ Variants Covered   | If the problem has similar variations, they are also explained. |

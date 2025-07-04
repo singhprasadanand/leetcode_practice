@@ -7,7 +7,7 @@ The idea is to imagine water being trapped between the bars.
 At each index, the amount of water trapped is determined by the minimum of
 the highest bars to the left and right, minus the current bar height.
 
-Dry Run:
+Sample:
 Input: height = [0,1,0,2,1,0,1,3,2,1,2,1]
 Output: 6 units of water trapped.
 
